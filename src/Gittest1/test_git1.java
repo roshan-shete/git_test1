@@ -1,6 +1,6 @@
 package Gittest1;
 
-public class for_learn_git {
+public class test_git1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -16,7 +16,6 @@ public class for_learn_git {
 		System.out.println("dddddddddddddd");		
 		System.out.println("fffffffffffffff");
 		System.out.println("bbbbbbbbbbbbbb");
-		
 
 	}
 
